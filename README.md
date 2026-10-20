@@ -1,103 +1,74 @@
-<!-- HEADER WAVY + NAME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0e0e0e&text=MaxGab%20%E2%9A%99%EF%B8%8F&fontAlign=50&fontColor=ffffff&fontSize=50&animation=fadeIn" />
-
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=40&lines=⚡+AI+System+Builder+|+Fullstack+Code+Specialist;🔧+Marketing+Strategist+cu+Execuție+Tehnică;🚀+Creatorul+Matrixio+|+AI+fără+limite;" />
-</p>
-
----
-
-## 🧠 Cine sunt / Who I Am <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f9e0.png" width="20" />
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+# Goran Dragoș-Gabriel
+### AI-assisted software builder · Python tools · Agent workflows
+
+**Turning ideas into testable software — from structured data utilities to multi-agent prototypes.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MaxGab-111827?style=for-the-badge&logo=github)](https://github.com/MaxGab)
+[![KAELIX Studio](https://img.shields.io/badge/KAELIX-Studio%20%26%20Projects-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://maxgab.github.io/kaelix-solana-sentinel/services.html)
+[![Email](https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragosgoran62@gmail.com)
+
+`Bucharest, Romania` · `Remote / international opportunities` · `English B2`
+
 </div>
 
-> **„Don’t just build code. Build something that learns, decide and executes.”**
+---
 
-- ⚡ Fullstack Developer + AI Architect  
-- 🎯 Automatizez, structurez și lansez aplicații care chiar contează  
-- ⚙️ Gândesc în sisteme. Scriu cod care gândește.  
-- 🛠️ Tools preferate: `Next.js`, `Tailwind`, `FastAPI`, `MongoDB`, `Ollama`
+## About me
+
+I'm an independent builder working at the intersection of **software engineering, AI-assisted development and business operations**. I focus on defining useful requirements, working with AI coding agents, reviewing the resulting code and validating what actually works with tests and demonstrations.
+
+My background includes operational coordination, volunteer game testing and a **BA in Marketing (2025)**. I currently use **ChatGPT, Codex and Grok** as development collaborators, alongside traditional tools for debugging, review and testing. My projects range from openly available Python utilities to private, in-progress agent and desktop software.
+
+> **Build → inspect → test → iterate.** Working prototypes and research explorations are identified separately below.
+
+## Public work — code you can inspect
+
+| Project | What it demonstrates | Code / demo |
+|:--|:--|:--|
+| **KAELIX Local Data MCP** | A local Python MCP/JSON-RPC stdio server with CSV audits, JSON checks and SHA-256 tools. Source includes automated tests and documented guardrails. | [Repository](https://github.com/MaxGab/kaelix-data-mcp) |
+| **Python CSV Data Audit** | A deterministic CSV-quality checker: duplicate rows, empty fields, whitespace, schema checks and reportable findings. | [Code & tests](https://github.com/MaxGab/kaelix-solana-sentinel/tree/main/examples/kaelix-data-audit) |
+| **KAELIX Studio / Solana Sentinel** | A public service catalog, browser-side data-quality demo, website checklists and an informational page for a read-only Solana monitoring setup. | [Repository](https://github.com/MaxGab/kaelix-solana-sentinel) · [Live website](https://maxgab.github.io/kaelix-solana-sentinel/) |
+| **FellixBot** | Earlier Node.js / discord.js Discord music-bot work. | [Repository](https://github.com/MaxGab/fellixbot) |
+
+**Current public-tool verification:** the Local Data MCP repository documents **25 automated tests** and the CSV audit example documents **15 tests**. Those are project-level checks, not claims of external production adoption or commercial sales.
+
+## Selected private projects and R&D
+
+These projects are not all publicly released, and the maturity of their components varies. I can discuss architecture, development decisions and verified demos without presenting roadmap work as shipped software.
+
+| Project | Scope | Status |
+|:--|:--|:--|
+| **ELI OS** | Modular personal AI platform exploring agent orchestration, memory, model routing, worker management, voice and multi-device clients. | Private; mixed running subsystems and staged candidates |
+| **ELI Virtual Office** | React/PixiJS workspace visualization with a FastAPI/WebSocket backend and a native macOS component. | Local preview; agents are simulated, not connected to a live worker fleet |
+| **Matrixio** | Production and installation workflow software based on manufacturing operations: tracking, scheduling and an evolving web dashboard. | Private, in development |
+| **Matri** | Web/desktop AI-assisted coding workspace concept, built around project context and file workflows. | Private, in development |
+| **Aurixio** | macOS notch-based interface experiments using native UI technologies. | Private prototype |
+| **ARRIVAL AI Agency & StoreFix AI** | Service workflows, storefront quality checks, order intake and guarded sandbox payment paths. | Local MVPs / QA; no live commerce claimed |
+| **Neon Skyrun / Roblox development tools** | Roblox world-building, gameplay systems, QA and worker-assisted content iteration. | Playtest and release iterations; no audience or revenue claims |
+| **KAELIX Kids Studio & Animixio** | Creative automation / offline media workflows, and a 2D-first cross-platform desktop-pet product concept. | Prototypes and early-stage work |
+
+Additional experiments include AI-assisted voice workflows, monitoring dashboards and Linux-based development automation. More technical detail is available through a tailored portfolio during the interview process.
+
+## Toolkit & approach
+
+**Software and data:** `Python` · `CSV / JSON` · `MCP / JSON-RPC` · `APIs` · `Git / GitHub` · `unit testing`
+
+**App project exposure:** `FastAPI` · `React / Next.js` · `TypeScript` · `SQLite` · `WebSockets` · `Docker / Linux`
+
+**AI-assisted workflow:** `ChatGPT` · `Codex` · `Grok` · requirements definition · code review · test evidence · release gates
+
+I work across these technologies at different levels of depth. The linked repositories are the best starting point for assessing the implementation details.
 
 ---
 
-## 🧰 Toolbox-ul meu <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f6e0.png" width="20" />
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,py,fastapi,mongodb,react,docker,git,vscode,figma" />
-</p>
+**Open to remote software and AI-oriented roles, as well as focused technical collaborations.**
 
----
+✉️ **[dragosgoran62@gmail.com](mailto:dragosgoran62@gmail.com)** · **[GitHub projects](https://github.com/MaxGab?tab=repositories)** · **[KAELIX services](https://maxgab.github.io/kaelix-solana-sentinel/services.html)**
 
-## ⚙️ Proiecte Majore <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4bb.png" width="20" />
+<sub>Last refreshed: October 2026 · Public code vs. private prototypes is intentionally distinguished.</sub>
 
-### 🔩 **Matrixio – AI-ul care îți conduce fabrica**
-
-> AI self-learning pentru producție, montaj și task management
-
-- 📥 Import Excel cu update automat în DB  
-- 🏷️ Tagging automat pe lucrări  
-- 🧠 Chat AI (în dezvoltare)  
-- 🚨 Alerte automate pentru livrări & taskuri întârziate  
-- 📡 WebSocket + Mongo + FastAPI + Ollama
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
-</p>
-
----
-
-## 🎧 Now Playing (Spotify)
-
-> 🎵 Muzică & flow de developer
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=n6madsoene07q228n7y8mup84&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxGab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxGab&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGab&layout=compact&theme=radical&hide_border=true&langs_count=6" width="50%" />
-</p>
-
----
-
-## 📡 Contact & Network <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4e1.png" width="20" />
-
-<p align="center">
-  <a href="mailto:dragos.goran62@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dragosgoran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/dead.man#9163"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxGab&style=for-the-badge&color=blue" alt="profile views" />
-</p>
-
----
-
-## 🎓 Certificări (soon...)
-
-> *Certificări în AI, dezvoltare și product strategy vor fi adăugate aici în curând.*
-
----
-
-## ⚡ Fun Fact <img src="https://twemoji.maxcdn.com/v/latest/72x72/2728.png" width="20" />
-
-> Dacă Matrixio ar avea un creier, eu l-am antrenat.  
-> Dacă îți fură jobul, nu-i vina mea. 😎
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=150&section=footer" />
+</div>
