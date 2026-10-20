@@ -5,6 +5,8 @@
 
 **ELI OS is the brain. KAELIX is one of the projects in its ecosystem.**
 
+**[Explore my AI-native engineering portfolio →](https://github.com/MaxGab/MaxGab/blob/main/ENGINEERING_PORTFOLIO.md)** · runnable Python/MCP example · source · tests · architecture
+
 [![ELI OS](https://img.shields.io/badge/ELI_OS-Central_AI_System-172554?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/MaxGab)
 [![KAELIX](https://img.shields.io/badge/KAELIX-Part_of_ELI-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://maxgab.github.io/kaelix-solana-sentinel/services.html)
 [![Contact](https://img.shields.io/badge/Contact-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragosgoran62@gmail.com)
