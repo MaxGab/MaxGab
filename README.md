@@ -1,74 +1,111 @@
 <div align="center">
 
 # MaxGab
-### AI-assisted software builder · Python tools · Agent workflows
+### Building ELI OS · Agentic AI · Software & Automation
 
-**Turning ideas into testable software — from structured data utilities to multi-agent prototypes.**
+**ELI OS is the brain. KAELIX is one of the projects in its ecosystem.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MaxGab-111827?style=for-the-badge&logo=github)](https://github.com/MaxGab)
-[![KAELIX Studio](https://img.shields.io/badge/KAELIX-Studio%20%26%20Projects-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://maxgab.github.io/kaelix-solana-sentinel/services.html)
-[![Email](https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragosgoran62@gmail.com)
+[![ELI OS](https://img.shields.io/badge/ELI_OS-Central_AI_System-172554?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/MaxGab)
+[![KAELIX](https://img.shields.io/badge/KAELIX-Part_of_ELI-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://maxgab.github.io/kaelix-solana-sentinel/services.html)
+[![Contact](https://img.shields.io/badge/Contact-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragosgoran62@gmail.com)
 
-`Bucharest, Romania` · `Remote / international opportunities` · `English B2`
+`Bucharest, Romania` · `AI-assisted software development` · `Remote opportunities`
 
 </div>
 
 ---
 
-## About me
+## The vision: one ecosystem, one core
 
-I'm an independent builder working at the intersection of **software engineering, AI-assisted development and business operations**. I focus on defining useful requirements, working with AI coding agents, reviewing the resulting code and validating what actually works with tests and demonstrations.
+**ELI** is the broader AI and software ecosystem I am building. **ELI OS is its central brain**: the long-term core for processing requests, managing context and memory, planning work, routing models, coordinating agents and tools, executing tasks and verifying results.
 
-My background includes operational coordination, volunteer game testing and a **BA in Marketing (2025)**. I currently use **ChatGPT, Codex and Grok** as development collaborators, alongside traditional tools for debugging, review and testing. My projects range from openly available Python utilities to private, in-progress agent and desktop software.
+**KAELIX is a part of that ecosystem**, focused on developer utilities, data quality, practical automations and commercial service workflows. Its publicly accessible projects are separate implementations today; **integration with ELI OS is a planned next step**, not something I claim is already connected or running in production.
 
-> **Build → inspect → test → iterate.** Working prototypes and research explorations are identified separately below.
+```text
+                       ELI ECOSYSTEM
+                            |
+                  +-------------------+
+                  |      ELI OS       |
+                  |  CENTRAL AI CORE  |
+                  |  intent · planner |
+                  |  memory · agents  |
+                  |  tools · verify   |
+                  +-------------------+
+                            |
+                  planned integration
+                            |
+                  +-------------------+
+                  |      KAELIX       |
+                  | data · automation |
+                  | tools · services  |
+                  +-------------------+
+```
 
-## Public work — code you can inspect
+The purpose is not to present unrelated apps as one finished product. The goal is to evolve useful components into an interoperable system, with testing and controlled integrations at every stage.
 
-| Project | What it demonstrates | Code / demo |
+## About MaxGab
+
+I'm a software and AI systems builder with a background in operations, project coordination and a BA in Marketing. I work on **AI-assisted implementation, Python utilities, application workflows, agent orchestration and product experiments**, using **ChatGPT, Codex and Grok** as development collaborators.
+
+I focus on **specification → implementation → inspection → tests → iteration**. I distinguish verified public code, local working previews and projects still in research or development.
+
+## ELI OS — the central project
+
+**Private / actively evolving.** ELI OS is an extensible personal AI platform whose design covers:
+
+- **Core flow:** input → context → intent → planner → tool discovery → model routing → execution → verification → memory → response
+- **Agent coordination:** specialized workers for coding, research, browser, files, creative tasks and QA
+- **Interfaces:** desktop/web experiences, voice experiments and multi-device clients
+- **Reliability:** staged builds, diagnostic checks, approval boundaries and test gates
+
+Some subsystems have local test evidence, while other capabilities remain prototypes or integration targets. **This is not a claim of complete autonomous production operation.**
+
+**ELI Virtual Office** is a related local React/PixiJS + FastAPI/WebSocket visualization preview. Its displayed agents are simulated; it is **not yet linked to the live ELI worker system**.
+
+## KAELIX — a component of ELI
+
+KAELIX provides hands-on development examples and service-oriented workflows that are intended to connect back into ELI OS over time.
+
+| Public project | What you can inspect | Link |
 |:--|:--|:--|
-| **KAELIX Local Data MCP** | A local Python MCP/JSON-RPC stdio server with CSV audits, JSON checks and SHA-256 tools. Source includes automated tests and documented guardrails. | [Repository](https://github.com/MaxGab/kaelix-data-mcp) |
-| **Python CSV Data Audit** | A deterministic CSV-quality checker: duplicate rows, empty fields, whitespace, schema checks and reportable findings. | [Code & tests](https://github.com/MaxGab/kaelix-solana-sentinel/tree/main/examples/kaelix-data-audit) |
-| **KAELIX Studio / Solana Sentinel** | A public service catalog, browser-side data-quality demo, website checklists and an informational page for a read-only Solana monitoring setup. | [Repository](https://github.com/MaxGab/kaelix-solana-sentinel) · [Live website](https://maxgab.github.io/kaelix-solana-sentinel/) |
-| **FellixBot** | Earlier Node.js / discord.js Discord music-bot work. | [Repository](https://github.com/MaxGab/fellixbot) |
+| **KAELIX Local Data MCP** | Local-only Python MCP/JSON-RPC stdio server for CSV/JSON checks and SHA-256, with documented boundaries and automated tests. | [Source](https://github.com/MaxGab/kaelix-data-mcp) |
+| **KAELIX CSV Data Audit** | Python tool for deterministic CSV quality checks, including duplicates and empty fields. | [Source & tests](https://github.com/MaxGab/kaelix-solana-sentinel/tree/main/examples/kaelix-data-audit) |
+| **KAELIX Studio / Solana Sentinel** | Public service catalog, web checklists, browser-side demo and an informational read-only Solana monitoring offering. | [Repository](https://github.com/MaxGab/kaelix-solana-sentinel) · [Website](https://maxgab.github.io/kaelix-solana-sentinel/) |
 
-**Current public-tool verification:** the Local Data MCP repository documents **25 automated tests** and the CSV audit example documents **15 tests**. Those are project-level checks, not claims of external production adoption or commercial sales.
+**Verification notes:** The MCP repository documents 25 automated tests; the CSV audit example documents 15. These are project-level tests, not proof of enterprise adoption, live revenue or a completed ELI OS connection.
 
-## Selected private projects and R&D
+## Other projects & experiments
 
-These projects are not all publicly released, and the maturity of their components varies. I can discuss architecture, development decisions and verified demos without presenting roadmap work as shipped software.
+These demonstrate different parts of my product and engineering interests; **they are not all integrated with ELI OS**.
 
-| Project | Scope | Status |
+| Project | Focus | Maturity |
 |:--|:--|:--|
-| **ELI OS** | Modular personal AI platform exploring agent orchestration, memory, model routing, worker management, voice and multi-device clients. | Private; mixed running subsystems and staged candidates |
-| **ELI Virtual Office** | React/PixiJS workspace visualization with a FastAPI/WebSocket backend and a native macOS component. | Local preview; agents are simulated, not connected to a live worker fleet |
-| **Matrixio** | Production and installation workflow software based on manufacturing operations: tracking, scheduling and an evolving web dashboard. | Private, in development |
-| **Matri** | Web/desktop AI-assisted coding workspace concept, built around project context and file workflows. | Private, in development |
-| **Aurixio** | macOS notch-based interface experiments using native UI technologies. | Private prototype |
-| **ARRIVAL AI Agency & StoreFix AI** | Service workflows, storefront quality checks, order intake and guarded sandbox payment paths. | Local MVPs / QA; no live commerce claimed |
-| **Neon Skyrun / Roblox development tools** | Roblox world-building, gameplay systems, QA and worker-assisted content iteration. | Playtest and release iterations; no audience or revenue claims |
-| **KAELIX Kids Studio & Animixio** | Creative automation / offline media workflows, and a 2D-first cross-platform desktop-pet product concept. | Prototypes and early-stage work |
+| **Matrixio** | Manufacturing-oriented scheduling, operational tracking and web workflows. | Private, in development |
+| **Matri** | AI-assisted coding workspace and project/file-context tooling. | Private, in development |
+| **Aurixio** | Native macOS interface and notch UI experiments. | Private prototype |
+| **ARRIVAL AI Agency / StoreFix AI** | Service delivery flows, storefront QA, guarded checkout/testing pathways. | Local MVPs and QA; no live sales claimed |
+| **Roblox / Neon Skyrun work** | Game systems, world-building, assets and worker-assisted QA. | Playtests and iterations |
+| **Kids Studio / Animixio** | Creative automation and 2D-first desktop-pet explorations. | Early-stage experiments |
+| **FellixBot** | Earlier Discord music bot in Node.js/discord.js. | [Public repository](https://github.com/MaxGab/fellixbot) |
 
-Additional experiments include AI-assisted voice workflows, monitoring dashboards and Linux-based development automation. More technical detail is available through a tailored portfolio during the interview process.
+## Technical toolkit
 
-## Toolkit & approach
+**Working with:** `Python` · `CSV / JSON` · `MCP / JSON-RPC` · `APIs` · `Git / GitHub` · `automated tests`
 
-**Software and data:** `Python` · `CSV / JSON` · `MCP / JSON-RPC` · `APIs` · `Git / GitHub` · `unit testing`
+**App and infrastructure exposure:** `FastAPI` · `React / Next.js` · `TypeScript` · `SQLite` · `WebSockets` · `Docker` · `Linux`
 
-**App project exposure:** `FastAPI` · `React / Next.js` · `TypeScript` · `SQLite` · `WebSockets` · `Docker / Linux`
+**AI development workflow:** `ChatGPT` · `Codex` · `Grok` · requirements · implementation review · verification · release gates
 
-**AI-assisted workflow:** `ChatGPT` · `Codex` · `Grok` · requirements definition · code review · test evidence · release gates
-
-I work across these technologies at different levels of depth. The linked repositories are the best starting point for assessing the implementation details.
+Depth of experience varies by technology. Public code is available above for direct assessment.
 
 ---
 
 <div align="center">
 
-**Open to remote software and AI-oriented roles, as well as focused technical collaborations.**
+**ELI OS is the destination. KAELIX is one of the pieces being built to get there.**
 
-✉️ **[dragosgoran62@gmail.com](mailto:dragosgoran62@gmail.com)** · **[GitHub projects](https://github.com/MaxGab?tab=repositories)** · **[KAELIX services](https://maxgab.github.io/kaelix-solana-sentinel/services.html)**
+[**Explore code**](https://github.com/MaxGab?tab=repositories) · [**KAELIX work**](https://maxgab.github.io/kaelix-solana-sentinel/services.html) · [**Contact**](mailto:dragosgoran62@gmail.com)
 
-<sub>Last refreshed: October 2026 · Public code vs. private prototypes is intentionally distinguished.</sub>
+<sub>Updated October 2026 · Planned integrations are identified separately from working implementations.</sub>
 
 </div>
