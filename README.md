@@ -1,6 +1,6 @@
 <div align="center">
 
-# Goran Dragoș-Gabriel
+# MaxGab
 ### AI-assisted software builder · Python tools · Agent workflows
 
 **Turning ideas into testable software — from structured data utilities to multi-agent prototypes.**
