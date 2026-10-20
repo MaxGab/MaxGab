@@ -2,6 +2,10 @@
 
 **Public evidence, runnable tests, and engineering decisions** · October 2026
 
+[![MCP CI](https://github.com/MaxGab/kaelix-data-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/MaxGab/kaelix-data-mcp/actions/workflows/tests.yml)  [![KAELIX QA](https://github.com/MaxGab/kaelix-solana-sentinel/actions/workflows/kaelix-intake.yml/badge.svg)](https://github.com/MaxGab/kaelix-solana-sentinel/actions/workflows/kaelix-intake.yml)
+
+**CI evidence:** [MCP tests — successful run, 17 Oct 2026](https://github.com/MaxGab/kaelix-data-mcp/actions/runs/39001005037) · [KAELIX website QA — successful run, 17 Oct 2026](https://github.com/MaxGab/kaelix-solana-sentinel/actions/runs/39054352210). These verify the code at the cited commits; they are not production security certifications.
+
 [GitHub profile](https://github.com/MaxGab) · [KAELIX Local Data MCP](https://github.com/MaxGab/kaelix-data-mcp) · [CSV audit sample](https://github.com/MaxGab/kaelix-solana-sentinel/tree/main/examples/kaelix-data-audit) · [Email](mailto:dragosgoran62@gmail.com)
 
 > I use AI coding assistants, including ChatGPT, Codex and Grok, to help translate requirements into working code. My role spans product definition, task breakdown, guiding implementation, inspecting changes and validating results. This portfolio distinguishes verifiable public software from private R&D and explains what I can demonstrate in a technical conversation.
